@@ -1,0 +1,33 @@
+table{
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 16px;
+    box-shadow: 2px 2px 6px black;
+    background-color: rgb(39, 170, 42);
+    cursor: alias;
+}
+td{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: mediumvioletred;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    cursor: pointer;
+
+
+}
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 201px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow-y: hidden;
+    background-color: tomato;
+
+}
+th{
+    padding: 20px;
+}
